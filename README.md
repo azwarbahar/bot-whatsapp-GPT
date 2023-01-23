@@ -6,4 +6,6 @@ cd whatsapp-web-bot
 npm install
 Copy API keys openAI https://beta.openai.com/account/api-keys paste di config.js
 npm run dev
+Scan QR Whatsapp
+
 ```
